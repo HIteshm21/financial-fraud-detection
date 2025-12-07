@@ -25,7 +25,9 @@ This project demonstrates an end-to-end implementation of such a system:
 ---
 
 ## Application Demo
-![Demo GIF](assets/my%20gif.gif)
+
+![Application Demo](assets/fraud_demo.gif)
+
 
 
 
