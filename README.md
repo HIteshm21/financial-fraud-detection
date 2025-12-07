@@ -24,13 +24,8 @@ This project demonstrates an end-to-end implementation of such a system:
 
 ---
 
-## Demo – Application in Action
+## Application Demo
 
-> Replace these image paths with your own GIFs or screenshots once created.
+![My GIF](assets/my%20gif.gif)
 
-### Main app flow (GIF)
 
-```text
-assets/
- └── app-demo.gif
-![App Demo](assets/app-demo.gif)
