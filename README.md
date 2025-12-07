@@ -198,8 +198,8 @@ This project demonstrates a complete end-to-end machine learning pipeline for de
 ✨ Clean visual interface using Streamlit
 ✨ Fully deployed online for access
 
-🎥 Live Application DemO
-(assets/fraud_demo.gif)
+🎥 Live Application Demo
+![Application Demo](assets/fraud_demo.gif)
 
 👉 Streamlit link
 https://financial-fraud-detection-hlu5nkzvkcydirrgbkdgin.streamlit.app/
