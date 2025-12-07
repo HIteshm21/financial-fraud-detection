@@ -33,3 +33,4 @@ This project demonstrates an end-to-end implementation of such a system:
 ```text
 assets/
  └── app-demo.gif
+![App Demo](assets/app-demo.gif)
